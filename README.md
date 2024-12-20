@@ -1,4 +1,6 @@
 # Run Frontend and Backend
+Group Persian Gulf
+Anna Chevychalova, Jack Wyett, George Lavas, Xiang Wang and Jette Anders
 
 ## Start frontend
 
